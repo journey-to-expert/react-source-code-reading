@@ -27,6 +27,7 @@ Video：
 Article：
 - https://github.com/acdlite/react-fiber-architecture
 - https://tusharf5.com/posts/react-fiber-overview/
+- https://makersden.io/blog/look-inside-fiber
 
 #### 日期：待定  
 #### 主持人：待定  
@@ -37,7 +38,7 @@ Article：
 
 #### 討論內容：
 
-react 是用 react fiber 和 reconciliation 來得知 dom 的不同狀態，進而進行 dom 的更新和 render，那其他框架是用什麼方法來實現這件事情？這次的主題主要會聚焦在 signals 這個設計上面。
+react 是用 react fiber, reconciliation 和 virtual dom 來對真實的 dom 進行更新和 render，那其他框架是用什麼方法來實現這件事情？這次的主題主要會聚焦在 signals 這個設計上面。
 
 Video：
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
@@ -45,8 +46,9 @@ Video：
 Article
 - A Hands-on Introduction to Fine-Grained Reactivity：https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf
 - JavaScript Signals standard proposal：https://github.com/tc39/proposal-signals
-- https://www.builder.io/blog/signals-vs-observables
-- https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
+- Signals vs. Observables, what's all the fuss about?：https://www.builder.io/blog/signals-vs-observables
+- useSignal() is the Future of Web Frameworks：https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
+- Signal - 蓄勢待發的 Virtual DOM 殺手：https://maxlee.me/posts/signal
 
 #### 日期：待定  
 #### 主持人：待定  
