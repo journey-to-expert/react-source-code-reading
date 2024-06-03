@@ -59,3 +59,4 @@ Article
 
 - Understanding React：https://dontimitateunderstand.com/p/understanding-react
 - React Internals Deep Dive：https://youtube.com/playlist?list=PLvx8w9g4qv_p-OS-XdbB3Ux_6DMXhAJC3&si=7rXjDGeY5mSYUORf
+- Inside Fiber: an in-depth overview of the new reconciliation algorithm in React：https://blog.ag-grid.com/inside-fiber-an-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/
