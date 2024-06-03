@@ -38,7 +38,7 @@ Article：
 
 #### 討論內容：
 
-react 是用 react fiber, reconciliation 和 virtual dom 來對真實的 dom 進行更新和 render，那其他框架是用什麼方法來實現這件事情？這次的主題主要會聚焦在 signals 這個設計上面。
+react 是用 react fiber, reconciliation 和 virtual dom 來對真實的 dom 進行更新和 render，那其他框架（例如：vue, angular, ember, solid, svelte, qwik...）是用什麼方法來實現這件事情？這次的主題主要會聚焦在 signals 這個設計上面。
 
 Video：
 - [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
