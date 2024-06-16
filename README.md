@@ -10,8 +10,8 @@ Video：
 - [React Internals Deep Dive 1 - Hello World! Debugging](https://www.youtube.com/watch?v=OcB3rTln-fI&list=PLvx8w9g4qv_p-OS-XdbB3Ux_6DMXhAJC3&index=1)
 - [React Internals Deep Dive 5 - How does useState work internally?](https://www.youtube.com/watch?v=svaUEHMuv9w&list=PLvx8w9g4qv_p-OS-XdbB3Ux_6DMXhAJC3&index=5)
 
-#### 日期：待定  
-#### 主持人：待定  
+#### 日期：2024/07/14（日）20:30  
+#### 主持人：33  
 
 ---
 
@@ -29,8 +29,8 @@ Article：
 - https://tusharf5.com/posts/react-fiber-overview/
 - https://makersden.io/blog/look-inside-fiber
 
-#### 日期：待定  
-#### 主持人：待定  
+#### 日期：2024/08/04（日）20:30  
+#### 主持人：Simone
 
 ---
 
@@ -50,8 +50,8 @@ Article
 - useSignal() is the Future of Web Frameworks：https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
 - Signal - 蓄勢待發的 Virtual DOM 殺手：https://maxlee.me/posts/signal
 
-#### 日期：待定  
-#### 主持人：待定  
+#### 日期：2024/08/25（日）20:30  
+#### 主持人：Kelly  
 
 ## Records
 
