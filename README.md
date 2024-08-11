@@ -12,7 +12,6 @@ Video：
 
 #### 日期：2024/07/14（日）20:30  
 #### 主持人：33  
-[筆記](https://app.heptabase.com/w/a0a01f0a94527dcbd657093e9e47270cd33c33245b8975b5d923a8638d5f718e)
 
 ---
 
@@ -30,7 +29,7 @@ Article：
 - https://tusharf5.com/posts/react-fiber-overview/
 - https://makersden.io/blog/look-inside-fiber
 
-#### 日期：2024/08/04（日）20:30  
+#### 日期：2024/08/11（日）20:30  
 #### 主持人：Simone
 
 ---
@@ -51,10 +50,25 @@ Article
 - useSignal() is the Future of Web Frameworks：https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks
 - Signal - 蓄勢待發的 Virtual DOM 殺手：https://maxlee.me/posts/signal
 
-#### 日期：2024/08/25（日）20:30  
+#### 日期：2024/09/01（日）20:30  
 #### 主持人：Kelly  
 
 ## Records
+
+### 2024/07/14
+
+- 主題：如何用 debugger, useState 的底層運作原理
+- 筆記：[筆記](https://app.heptabase.com/w/a0a01f0a94527dcbd657093e9e47270cd33c33245b8975b5d923a8638d5f718e)
+
+### 2024/08/11
+
+- 主題：react fiber and reconciliation
+- 筆記：https://hackmd.io/@bleach1827/Hy4hTBGu0
+
+### 2024/09/01
+
+- 主題：signals
+- 筆記：
 
 ## Other Reference
 
